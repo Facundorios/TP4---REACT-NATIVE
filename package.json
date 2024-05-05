@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "proxy": "https://www.freetogame.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,8 +13,8 @@
   "dependencies": {
     "axios": "^1.6.8",
     "cors": "^2.8.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
